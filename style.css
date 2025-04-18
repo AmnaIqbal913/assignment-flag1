@@ -1,0 +1,27 @@
+.box{
+    width: 800px;
+    height: 400px;
+    position: relative;
+}
+.yellow{
+    width: 800px;
+    height: 200px;
+    background-color:#ffdd00
+}
+.blue{
+    width: 800px;
+    height: 100px;
+    background-color: #034ea3;
+}
+.red{
+    width: 800px;
+    height: 100px;
+    background-color:  #ed1c23 ;
+}
+img{
+height: 200px;
+width: 250px;
+position: absolute;
+left: 34%;
+top: 26%;
+}
